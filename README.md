@@ -4,6 +4,7 @@ En el área de Tecnología Comercial, la creatividad desempeña un papel esencia
 ## Artículo de Investigación sobre la Creatividad
 
 **Estudiantes:** Yuliana Acosta, Mathews Montenegro,Karina Atencio, Marieth González
+
 **Disciplina Seleccionada:** Tecnología Comercial
 **Fecha:** 8/11/2026
 
