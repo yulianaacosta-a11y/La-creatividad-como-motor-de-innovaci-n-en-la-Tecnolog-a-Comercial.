@@ -41,22 +41,21 @@ La creatividad en la asignatura de Tecnología Comercial se manifiesta mediante 
 Para fomentar la creatividad en la asignatura de Tecnología Comercial, es necesario implementar métodos y técnicas que estimulen la generación de ideas, la innovación y la resolución de problemas relacionados con el entorno empresarial.
 
 Entre las principales estrategias se encuentran:
+
 1.	Aprendizaje basado en proyectos
- 
 
 Permite que los estudiantes desarrollen proyectos a partir de situaciones reales, aplicando sus conocimientos comerciales y tecnológicos.
 Ejemplo: crear una pequeña empresa, diseñar su marca, elaborar un presupuesto y desarrollar un catálogo digital.
 
+
 2.	Design Thinking (Pensamiento de diseño)
 
- 
 Es una metodología que busca resolver problemas mediante la comprensión de las necesidades de las personas, la generación de ideas y la creación de soluciones.
 Ejemplo: identificar por qué un negocio local tiene pocas ventas y diseñar una propuesta para mejorar su comercialización.
 
 
+
 3.	Resolución de problemas
-
-
  
 Consiste en presentar situaciones o dificultades comerciales para que los estudiantes analicen y propongan soluciones innovadoras.
 Ejemplo: buscar alternativas para reducir los costos de transporte y distribución de mercancías.
