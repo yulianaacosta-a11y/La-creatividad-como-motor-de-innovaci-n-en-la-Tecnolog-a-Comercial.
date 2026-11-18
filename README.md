@@ -1,0 +1,2 @@
+# La-creatividad-como-motor-de-innovaci-n-en-la-Tecnolog-a-Comercial.
+En el área de Tecnología Comercial, la creatividad desempeña un papel esencial, ya que facilita el aprovechamiento de las herramientas tecnológicas para diseñar estrategias de marketing, desarrollar proyectos empresariales, mejorar los procesos comerciales, impulsar el comercio electrónico e identificar nuevas oportunidades de emprendimiento. 
